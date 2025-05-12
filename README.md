@@ -1,30 +1,30 @@
-#👋 Salut, je suis Mehdi !
+# 👋 Salut, je suis Mehdi !
 
 
 
-##🎓 À propos
+## 🎓 À propos
 
 Je suis étudiant à 42 Lausanne, passionné d'informatique depuis plus de 5 ans et toujours avide de nouveaux défis. Je mène en moyenne plusieurs projets par an, ce qui m'a permis d'acquérir une solide expérience et de développer un esprit jeune et dynamique 🚀.
 
-##💻 Compétences
+## 💻 Compétences
 
 Langages : C, C++, Python, Bash, HTML, CSS, Java (notions) 🛠️
 
 Domaines :
 
-###🔒 Cybersécurité
+### 🔒 Cybersécurité
 
-###📐 Algorithmique avancée
+### 📐 Algorithmique avancée
 
-###🤖 Machine Learning
+### 🤖 Machine Learning
 
-###⚙️ DevOps & Scripting
+### ⚙️ DevOps & Scripting
 
 Outils & Environnements : Git, Docker, Linux, VS Code, Vim
 
-##🚀 Projets phares
+## 🚀 Projets phares
 
-###[pipex — Gestion de pipes Unix en C](https://github.com/Mehdo0/pipex)
+### [pipex — Gestion de pipes Unix en C](https://github.com/Mehdo0/pipex)
 
 Projet 42 : recrée le fonctionnement du shell pour chaîner plusieurs commandes via des pipes (|).
 
@@ -32,7 +32,7 @@ Implémentation des redirections, forks, dup2, et gestion d’erreurs.
 
 Approfondissement en gestion de processus et file descriptors.
 
-###[philosophers — Problème des philosophes dineurs (Concurrency)](https://github.com/Mehdo0/philosophers)
+### [philosophers — Problème des philosophes dineurs (Concurrency)](https://github.com/Mehdo0/philosophers)
 
 Résolution du protocole des philosophes en C avec pthread et sémaphores.
 
@@ -40,7 +40,7 @@ Synchronisation, prévention des deadlocks et starvation.
 
 Optimisations pour minimiser le temps de latence et assurer la justice.
 
-###[cube3d — Jeu 3D de raycasting en C](https://github.com/Mehdo0/cube3d)
+### [cube3d — Jeu 3D de raycasting en C](https://github.com/Mehdo0/cube3d)
 
 Projet 42 : implémentation d'un moteur de raycasting pour créer un clone de Wolfenstein 3D.
 
@@ -62,10 +62,10 @@ Rédaction de rapports et recommandations de mitigation
 
 Tip : Consulter la liste complète de mes projets dans la section « Repositories épinglés » ci-dessous 🔍
 
-##📫 Contactez-moi
+## 📫 Contactez-moi
 
-###📧 [Email](mmouaffa@student.42lausanne.ch)
+### 📧 [Email](mmouaffa@student.42lausanne.ch)
 
-###🔗 [LinedIn](https://www.linkedin.com/in/mehdi-mouaffak-238558334/)
+### 🔗 [LinedIn](https://www.linkedin.com/in/mehdi-mouaffak-238558334/)
 
 Ce README refléte mon profil et mes réalisations. N'hésitez pas à explorer mes repositories et à me laisser un ⭐ !
