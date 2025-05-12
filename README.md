@@ -52,19 +52,9 @@ Suite d’outils d’audit et de pentesting : scanner de ports, brute-force SSL,
 
 >Tip : Pour découvrir plus de projets, consultez les dépôts épinglés ci-dessous 🔍
 
-
-
-Projet 3 — Sécurité et Pentesting
-
-Audit de sécurité sur une application web
-
-Rédaction de rapports et recommandations de mitigation
-
-Tip : Consulter la liste complète de mes projets dans la section « Repositories épinglés » ci-dessous 🔍
-
 ## 📫 Contactez-moi
 
-### 📧 [Email](mmouaffa@student.42lausanne.ch)
+### 📧 Email : mmouaffa@student.42lausanne.ch
 
 ### 🔗 [LinedIn](https://www.linkedin.com/in/mehdi-mouaffak-238558334/)
 
