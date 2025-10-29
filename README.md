@@ -24,13 +24,13 @@ Outils & Environnements : Git, Docker, Linux, VS Code, Vim
 
 ## 🚀 Projets phares
 
-### [pipex — Gestion de pipes Unix en C](https://github.com/Mehdo0/pipex)
+### [C++ modules - comprehension des notions phare du c++](https://github.com/Mehdo0/CPP)
 
-Projet 42 : recrée le fonctionnement du shell pour chaîner plusieurs commandes via des pipes (|).
+Les modules C++ de 42 introduisent les étudiants, déjà familiers avec le C, aux concepts fondamentaux de la programmation orientée objet.
 
-Implémentation des redirections, forks, dup2, et gestion d’erreurs.
+Ces modules couvrent des notions clés telles que les classes, l'héritage, le polymorphisme et la gestion des exceptions.
 
-Approfondissement en gestion de processus et file descriptors.
+L'objectif est de maîtriser les spécificités du C++, y compris les templates et la bibliothèque standard (STL), à travers une série de projets pratiques.
 
 ### [philosophers — Problème des philosophes dineurs (Concurrency)](https://github.com/Mehdo0/philosophers)
 
