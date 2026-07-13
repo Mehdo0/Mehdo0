@@ -1,55 +1,46 @@
-# 👋 Salut, je suis Mehdi !
+# Mehdi Mouaffak
 
-## 🎓 À propos
+## About
 
-Étudiant à **42 Lausanne**, développeur full-stack et entrepreneur tech. Je construis des produits SaaS de A à Z — du backend à la landing page, en passant par Stripe et le déploiement Docker. 🚀
+Student at **42 Lausanne**, full-stack developer and tech entrepreneur based in Switzerland. I build SaaS products end-to-end — from backend architecture to deployment, including payment integration and client-facing features.
 
-Basé en Suisse, disponible pour un stage dès maintenant.
+Available for an internship immediately.
 
-## 💻 Stack technique
+## Technical Stack
 
-**Langages :** C, C++, Python, JavaScript, TypeScript, Bash, HTML, CSS
+**Languages:** C, C++, Python, JavaScript, TypeScript, Bash, HTML, CSS
 
-**Frameworks :** FastAPI, SvelteKit, Playwright, React (notions)
+**Frameworks & Tools:** FastAPI, SvelteKit, Playwright, Docker, Docker Compose, Nginx, Linux, Git
 
-**Infra :** Docker, Docker Compose, Nginx, GitHub Actions, Linux
+**Specialties:** API development, browser extensions (Manifest V3), web scraping, cybersecurity, concurrent programming
 
-**Business :** Stripe, Chrome Extensions (Manifest V3), SEO, scraping B2B
+## Featured Projects
 
-## 🚀 Projets récents
+### SEO Tools — SaaS platform for SEO auditing and B2B scraping
+Chrome extension (Manifest V3) + FastAPI backend + Playwright scraping engine. Stripe payments, JWT authentication, rate limiting. 76 automated tests. Built in two weeks.
 
-### [SEO Tools — SaaS d'audit SEO + scraping B2B](https://github.com/Mehdo0/seo-tools)
+### ft_transcendence — Online gaming platform
+Full-stack 42 school project: SvelteKit, FastAPI, Docker, Nginx. 255 commits, team of four. JWT auth, real-time multiplayer Pong, ELO ranking system, live chat.
 
-Extension Chrome (Manifest V3) + API FastAPI + moteur de scraping Playwright. 76 tests automatisés, Stripe, JWT, rate limiting. Construit en 2 semaines.
+### VulnForge — Cybersecurity audit platform
+SaaS platform for automated penetration testing powered by multi-agent AI orchestration. FastAPI, SvelteKit, vulnerability scoring, PDF reporting. In development.
 
-### [ft_transcendence — Plateforme de jeu en ligne](https://github.com/Mehdo0/ft_transcendence)
+### Cube3D — Raycasting 3D game engine
+Wolfenstein 3D clone written from scratch in C. Raycasting, texture mapping, collision detection, real-time rendering with MiniLibX.
 
-Projet 42 full-stack : SvelteKit + FastAPI + Docker + Nginx. 255 commits, équipe de 4. Auth JWT, Pong multijoueur, système ELO, chat en temps réel.
+### Inception — Docker infrastructure
+System administration project: multi-container Docker infrastructure with NGINX, MariaDB, WordPress. Custom Dockerfiles, TLS, persistent volumes.
 
-### [VulnForge — Plateforme d'audit cybersécurité IA](https://github.com/Mehdo0/vulnforge)
+### Philosophers — Concurrent programming in C
+The dining philosophers problem: threads, mutexes, semaphores. Deadlock prevention and starvation handling.
 
-Plateforme SaaS de pentesting automatisé par agents IA. FastAPI, SvelteKit, architecture multi-agent, scoring de vulnérabilités, rapports PDF. En développement.
+Additional projects available in my [repositories](https://github.com/Mehdo0?tab=repositories).
 
-### [cube3d — Moteur 3D par raycasting en C](https://github.com/Mehdo0/cube3d)
+## Contact
 
-Clone de Wolfenstein 3D from scratch. Raycasting, textures, collisions, MiniLibX. Parsing de cartes .cub et rendu temps réel optimisé.
+Email: mmouaffa@student.42lausanne.ch
 
-### [philosophers — Concurrence & synchronisation en C](https://github.com/Mehdo0/philosophers)
+LinkedIn: [mehdi-mouaffak](https://www.linkedin.com/in/mehdi-mouaffak-238558334/)
 
-Problème des philosophes dineurs : threads, mutex, sémaphores. Prévention des deadlocks et starvation.
-
-> 🔍 Plus de projets disponibles dans mes [repositories](https://github.com/Mehdo0?tab=repositories).
-
-## 📫 Contact
-
-📧 **Email :** mmouaffa@student.42lausanne.ch
-
-🔗 **[LinkedIn](https://www.linkedin.com/in/mehdi-mouaffak-238558334/)**
-
-🌐 **[Portfolio](https://mehdo0.github.io/portfolio)**
-
-💬 **Discord :** mehdo.0
-
-<!-- ACTIVITY_MARKER -->
-🟢 *Profil mis à jour le 13/07/2026*
+Portfolio: [mehdo0.github.io/portfolio](https://mehdo0.github.io/portfolio/)
 <!-- /ACTIVITY_MARKER -->
