@@ -49,3 +49,7 @@ Problème des philosophes dineurs : threads, mutex, sémaphores. Prévention des
 🌐 **[Portfolio](https://mehdo0.github.io/portfolio)**
 
 💬 **Discord :** mehdo.0
+
+<!-- ACTIVITY_MARKER -->
+🟢 *Profil mis à jour le 13/07/2026*
+<!-- /ACTIVITY_MARKER -->
