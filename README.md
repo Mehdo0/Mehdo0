@@ -43,4 +43,6 @@ Email: mmouaffa@student.42lausanne.ch
 LinkedIn: [mehdi-mouaffak](https://www.linkedin.com/in/mehdi-mouaffak-238558334/)
 
 Portfolio: [mehdo0.github.io/portfolio](https://mehdo0.github.io/portfolio/)
+
+<!-- ACTIVITY_MARKER -->
 <!-- /ACTIVITY_MARKER -->
