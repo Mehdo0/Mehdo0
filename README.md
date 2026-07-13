@@ -1,63 +1,51 @@
 # 👋 Salut, je suis Mehdi !
 
-
-
 ## 🎓 À propos
 
-Je suis étudiant à 42 Lausanne, passionné d'informatique depuis plus de 5 ans et toujours avide de nouveaux défis. Je mène en moyenne plusieurs projets par an, ce qui m'a permis d'acquérir une solide expérience et de développer un esprit jeune et dynamique 🚀.
+Étudiant à **42 Lausanne**, développeur full-stack et entrepreneur tech. Je construis des produits SaaS de A à Z — du backend à la landing page, en passant par Stripe et le déploiement Docker. 🚀
 
-## 💻 Compétences
+Basé en Suisse, disponible pour un stage dès maintenant.
 
-Langages : C, C++, Python, Bash, HTML, CSS, Java (notions) 🛠️
+## 💻 Stack technique
 
-Domaines :
+**Langages :** C, C++, Python, JavaScript, TypeScript, Bash, HTML, CSS
 
-### 🔒 Cybersécurité
+**Frameworks :** FastAPI, SvelteKit, Playwright, React (notions)
 
-### 📐 Algorithmique avancée
+**Infra :** Docker, Docker Compose, Nginx, GitHub Actions, Linux
 
-### 🤖 Machine Learning
+**Business :** Stripe, Chrome Extensions (Manifest V3), SEO, scraping B2B
 
-### ⚙️ DevOps & Scripting
+## 🚀 Projets récents
 
-Outils & Environnements : Git, Docker, Linux, VS Code, Vim
+### [SEO Tools — SaaS d'audit SEO + scraping B2B](https://github.com/Mehdo0/seo-tools)
 
-## 🚀 Projets phares
+Extension Chrome (Manifest V3) + API FastAPI + moteur de scraping Playwright. 76 tests automatisés, Stripe, JWT, rate limiting. Construit en 2 semaines.
 
-### [C++ modules - comprehension des notions phare du c++](https://github.com/Mehdo0/CPP)
+### [ft_transcendence — Plateforme de jeu en ligne](https://github.com/Mehdo0/ft_transcendence)
 
-Les modules C++ de 42 introduisent les étudiants, déjà familiers avec le C, aux concepts fondamentaux de la programmation orientée objet.
+Projet 42 full-stack : SvelteKit + FastAPI + Docker + Nginx. 255 commits, équipe de 4. Auth JWT, Pong multijoueur, système ELO, chat en temps réel.
 
-Ces modules couvrent des notions clés telles que les classes, l'héritage, le polymorphisme et la gestion des exceptions.
+### [VulnForge — Plateforme d'audit cybersécurité IA](https://github.com/Mehdo0/vulnforge)
 
-L'objectif est de maîtriser les spécificités du C++, y compris les templates et la bibliothèque standard (STL), à travers une série de projets pratiques.
+Plateforme SaaS de pentesting automatisé par agents IA. FastAPI, SvelteKit, architecture multi-agent, scoring de vulnérabilités, rapports PDF. En développement.
 
-### [philosophers — Problème des philosophes dineurs (Concurrency)](https://github.com/Mehdo0/philosophers)
+### [cube3d — Moteur 3D par raycasting en C](https://github.com/Mehdo0/cube3d)
 
-Résolution du protocole des philosophes en C avec pthread et sémaphores.
+Clone de Wolfenstein 3D from scratch. Raycasting, textures, collisions, MiniLibX. Parsing de cartes .cub et rendu temps réel optimisé.
 
-Synchronisation, prévention des deadlocks et starvation.
+### [philosophers — Concurrence & synchronisation en C](https://github.com/Mehdo0/philosophers)
 
-Optimisations pour minimiser le temps de latence et assurer la justice.
+Problème des philosophes dineurs : threads, mutex, sémaphores. Prévention des deadlocks et starvation.
 
-### [cube3d — Jeu 3D de raycasting en C](https://github.com/Mehdo0/cube3d)
+> 🔍 Plus de projets disponibles dans mes [repositories](https://github.com/Mehdo0?tab=repositories).
 
-Projet 42 : implémentation d'un moteur de raycasting pour créer un clone de Wolfenstein 3D.
+## 📫 Contact
 
-Utilisation de la miniLibX pour le rendu graphique, gestion des textures, collisions et mouvements.
+📧 **Email :** mmouaffa@student.42lausanne.ch
 
-Parsing de la map, positionnement de la caméra, et optimisation pour un rendu fluide en temps réel.
+🔗 **[LinkedIn](https://www.linkedin.com/in/mehdi-mouaffak-238558334/)**
 
-Suite d’outils d’audit et de pentesting : scanner de ports, brute-force SSL, analyse de vulnérabilités.
+🌐 **[Portfolio](https://mehdo0.github.io/portfolio)**
 
->Tip : Pour découvrir plus de projets, consultez les dépôts épinglés ci-dessous 🔍
-
-## 📫 Contactez-moi
-
-### 📧 Email : mmouaffa@student.42lausanne.ch
-
-### 🔗 [LinedIn](https://www.linkedin.com/in/mehdi-mouaffak-238558334/)
-
-### check my portfolio prototype too : [portfolio](https://github.com/Mehdo0/portfolio)
-
-Ce README refléte mon profil et mes réalisations. N'hésitez pas à explorer mes repositories et à me laisser un ⭐ !
+💬 **Discord :** mehdo.0
