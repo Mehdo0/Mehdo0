@@ -45,7 +45,8 @@ LinkedIn: [mehdi-mouaffak](https://www.linkedin.com/in/mehdi-mouaffak-238558334/
 Portfolio: [mehdo0.github.io/portfolio](https://mehdo0.github.io/portfolio/)
 
 <!-- ACTIVITY_MARKER -->
-🟢 *Profil mis à jour le 02/09/2026*
+🟢 *Profil mis à jour le 04/09/2026*
 <!-- /ACTIVITY_MARKER -->
+
 
 
