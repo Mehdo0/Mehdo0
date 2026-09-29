@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="390" viewBox="0 0 470 390" role="img" aria-label="> STATS DUMP">
+<title>> STATS DUMP</title>
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.3" fill="#000000" opacity="0.45"/></pattern><linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#b87400"/><stop offset="100%" stop-color="#ffb000"/></linearGradient></defs>
+<rect width="470" height="390" rx="12" fill="#0b0f0d"/>
+<rect x="1" y="1" width="468" height="388" rx="11" fill="none" stroke="#ffb000" stroke-opacity="0.55" stroke-width="1.4"/>
+<rect x="1" y="1" width="468" height="388" rx="11" fill="url(#scan)" opacity="0.35"/>
+<text x="22" y="34" font-family="ui-monospace, 'Courier New', monospace" font-size="14" font-weight="700" fill="#ffb000" letter-spacing="2">> STATS DUMP</text>
+<rect x="22" y="42" width="426" height="1" fill="#ffb000" opacity="0.35"/>
+<text x="26" y="76" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#26ff6a">PUBLIC REPOS</text>
+<text x="444" y="76" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="14" font-weight="700" fill="#ffb000">18</text>
+<rect x="26" y="83" width="418" height="1" fill="#d7d2c4" opacity="0.12"/>
+<text x="26" y="106" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#26ff6a">TOTAL STARS</text>
+<text x="444" y="106" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="14" font-weight="700" fill="#ffb000">8</text>
+<rect x="26" y="113" width="418" height="1" fill="#d7d2c4" opacity="0.12"/>
+<text x="26" y="136" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#26ff6a">CODE VOLUME</text>
+<text x="444" y="136" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="14" font-weight="700" fill="#ffb000">13.5 MB</text>
+<rect x="26" y="143" width="418" height="1" fill="#d7d2c4" opacity="0.12"/>
+<text x="26" y="166" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#26ff6a">FOLLOWERS</text>
+<text x="444" y="166" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="14" font-weight="700" fill="#ffb000">14</text>
+<rect x="26" y="173" width="418" height="1" fill="#d7d2c4" opacity="0.12"/>
+<text x="26" y="196" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#26ff6a">MEMBER SINCE</text>
+<text x="444" y="196" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="14" font-weight="700" fill="#ffb000">2024</text>
+<rect x="26" y="203" width="418" height="1" fill="#d7d2c4" opacity="0.12"/>
+<text x="26" y="226" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#26ff6a">LAST PUSH</text>
+<text x="444" y="226" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="14" font-weight="700" fill="#ffb000">2026-09-19</text>
+<rect x="26" y="233" width="418" height="1" fill="#d7d2c4" opacity="0.12"/>
+<text x="26" y="264" font-family="ui-monospace, 'Courier New', monospace" font-size="13" fill="#26ff6a">TOP LOOT</text>
+<text x="26" y="284" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#d7d2c4">exam-42</text>
+<text x="444" y="284" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#ffb000">★ 5 · C</text>
+<text x="26" y="303" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#d7d2c4">ft_transcendence</text>
+<text x="444" y="303" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#ffb000">★ 3 · Python</text>
+<text x="26" y="322" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#d7d2c4">42-cursus</text>
+<text x="444" y="322" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#ffb000">★ 0 · C</text>
+<text x="26" y="341" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#d7d2c4">CPP</text>
+<text x="444" y="341" text-anchor="end" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#ffb000">★ 0 · C++</text>
+</svg>
