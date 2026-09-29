@@ -114,9 +114,12 @@ NEXT BOSS   →  6-month internship · convention 42 Lausanne · available now
 
 ## `> FINAL BOSS: CONTRIBUTION SNAKE`
 
-<img width="100%" src="https://raw.githubusercontent.com/Mehdo0/Mehdo0/output/snake.svg" alt="contribution snake — needs the workflow to be active"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mehdo0/Mehdo0/output/snake-dark.svg?v=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/Mehdo0/Mehdo0/output/snake.svg?v=2" alt="contribution snake" />
+</picture>
 
-<sub>Le snake apparaît dès que le workflow <code>snake.yml</code> a tourné une première fois (branche <code>output</code>).</sub>
+<sub>Serpent régénéré toutes les 12 h par <code>snake.yml</code> · variante claire / sombre automatique · le graphe se remplit à mesure que les contributions tombent.</sub>
 
 </div>
 

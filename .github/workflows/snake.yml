@@ -15,13 +15,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate the snake (amber phosphor palette)
+      - name: Generate the snake (amber / phosphor, light + dark variants)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Le '#' des couleurs DOIT être encodé %23 : sinon tout ce qui suit devient un fragment
+          # d'URL, les paramètres sont perdus et les deux variantes sortent identiques.
+          # CLAIRE : cases vides #ebedf0, serpent ambre foncé (lisible sur blanc).
+          # SOMBRE : cases vides #161b22 (gris GitHub dark), serpent ambre vif + phosphore vert.
           outputs: |
-            dist/snake.svg?color_snake=#ffb000&color_dots=#0b0f0d,#1b2f22,#2f6b3f,#4fae5c,#26ff6a
-            dist/snake-dark.svg?palette=github-dark&color_snake=#ffb000&color_dots=#0b0f0d,#1b2f22,#2f6b3f,#4fae5c,#26ff6a
+            dist/snake.svg?color_snake=%23b45309&color_dots=%23ebedf0,%23c6e48b,%237bc96f,%23239a3b,%23196127
+            dist/snake-dark.svg?color_snake=%23ffb000&color_dots=%23161b22,%231b2f22,%232f6b3f,%234fae5c,%2326ff6a
 
       - name: Publish to the "output" branch
         uses: crazy-max/ghaction-github-pages@v4
